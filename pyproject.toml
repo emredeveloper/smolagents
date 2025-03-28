@@ -48,7 +48,7 @@ litellm = [
 ]
 mcp = [
 #  "mcpadapt>=0.0.15",  # No version supports Python 3.9
-  "mcp",
+#  "mcp",  # No version supports Python 3.9
 ]
 mlx-lm = [
   "mlx-lm"

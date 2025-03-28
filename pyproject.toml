@@ -82,7 +82,7 @@ quality = [
   "ruff>=0.9.0",
 ]
 test = [
-  "ipython>=8.31.0", # for interactive environment tests
+  "ipython>=8.0.0", # for interactive environment tests (Python 3.10: >=8.31.0)
   "pandas>=2.2.3",
   "pytest>=8.1.0",
   "pytest-datadir",
